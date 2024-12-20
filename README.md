@@ -50,9 +50,8 @@ Hi there! I'm **Vansh (RyuReaper)**, a passionate **Full-Stack Developer**, **Ga
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyuReaper&show_icons=true&theme=radical" alt="GitHub Stats" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuReaper&layout=compact&theme=radical" alt="Top Languages" width="500"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyuReaper&theme=radical" alt="Streak Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryu-Dev-here&show_icons=true&theme=radical" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu-Dev-here&layout=compact&theme=radical" alt="Top Languages" width="500"/>
 </p>
 
 ---
@@ -72,13 +71,5 @@ Hi there! I'm **Vansh (RyuReaper)**, a passionate **Full-Stack Developer**, **Ga
   <a href="https://discord.com/users/445619517276684351"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://ryu-here.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="Coding" width="800"/>
-</p>
-
----
 
 🎉 **Thank you for visiting my profile!** Feel free to explore my repositories and connect with me.
