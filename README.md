@@ -1,15 +1,7 @@
 # 🌐 Welcome to My GitHub Profile!  
 
-![Profile Views](https://komarev.com/ghpvc/?username=RyuReaper&style=flat-square&color=blue)  
-[![GitHub Followers](https://img.shields.io/github/followers/RyuReaper?label=Follow%20Me&style=social)](https://github.com/RyuReaper)  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600"/>
-</p>
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=Ryu-Dev-here&style=flat-square&color=blue)  
+[![GitHub Followers](https://img.shields.io/github/followers/Ryu-Dev-Here?label=Follow%20Me&style=social)](https://github.com/RyuReaper)  
 
 ## 🎉 Welcome, Fellow Developer!  
 
